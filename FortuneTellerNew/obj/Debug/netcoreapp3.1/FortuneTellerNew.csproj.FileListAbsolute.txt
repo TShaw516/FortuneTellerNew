@@ -1,0 +1,11 @@
+C:\Users\eshaw\source\repos\FortuneTellerNew\FortuneTellerNew\bin\Debug\netcoreapp3.1\FortuneTellerNew.exe
+C:\Users\eshaw\source\repos\FortuneTellerNew\FortuneTellerNew\bin\Debug\netcoreapp3.1\FortuneTellerNew.deps.json
+C:\Users\eshaw\source\repos\FortuneTellerNew\FortuneTellerNew\bin\Debug\netcoreapp3.1\FortuneTellerNew.runtimeconfig.json
+C:\Users\eshaw\source\repos\FortuneTellerNew\FortuneTellerNew\bin\Debug\netcoreapp3.1\FortuneTellerNew.runtimeconfig.dev.json
+C:\Users\eshaw\source\repos\FortuneTellerNew\FortuneTellerNew\bin\Debug\netcoreapp3.1\FortuneTellerNew.dll
+C:\Users\eshaw\source\repos\FortuneTellerNew\FortuneTellerNew\bin\Debug\netcoreapp3.1\FortuneTellerNew.pdb
+C:\Users\eshaw\source\repos\FortuneTellerNew\FortuneTellerNew\obj\Debug\netcoreapp3.1\FortuneTellerNew.csprojAssemblyReference.cache
+C:\Users\eshaw\source\repos\FortuneTellerNew\FortuneTellerNew\obj\Debug\netcoreapp3.1\FortuneTellerNew.AssemblyInfoInputs.cache
+C:\Users\eshaw\source\repos\FortuneTellerNew\FortuneTellerNew\obj\Debug\netcoreapp3.1\FortuneTellerNew.AssemblyInfo.cs
+C:\Users\eshaw\source\repos\FortuneTellerNew\FortuneTellerNew\obj\Debug\netcoreapp3.1\FortuneTellerNew.dll
+C:\Users\eshaw\source\repos\FortuneTellerNew\FortuneTellerNew\obj\Debug\netcoreapp3.1\FortuneTellerNew.pdb
